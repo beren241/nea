@@ -484,8 +484,8 @@ def multiplayer1():
 pygame.init()
 
 #create game window
-SCREEN_WIDTH = 700
-SCREEN_HEIGHT = 700
+SCREEN_WIDTH = 650
+SCREEN_HEIGHT = 650
 
 screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
 pygame.display.set_caption("Main Menu")
